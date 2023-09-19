@@ -1,0 +1,10 @@
+Topic #0: Cloud Deployment
+Topic #1: Cloud Services (SaaS, PaaS, IaaS, APIs)
+Topic #2: DevOps
+Topic #3: Cloud Services Management
+Topic #4: Cloud Containers & Microservices
+Topic #5: Cloud Security & Protection
+Topic #6: Cloud Policies (Application Policies, IAM)
+Topic #7: CI/CD
+Topic #8: Cloud Deployment Support
+Topic #9: Collaborative Cloud Workspace
